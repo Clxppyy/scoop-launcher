@@ -1,7 +1,7 @@
 # scoop-launcher
 A launcher for the Seamless CO-OP mod for Elden Ring (coming soon)!
 
-Featuring:
+Featuring:                                                                                                                                                                                     
 --> automatic installation of newer versions (coming with next release)                                                                                                            
 --> automatic im- and exporting of Elden Ring vanilla/Seamless Coop profiles (planned)
 
