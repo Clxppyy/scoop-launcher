@@ -6,9 +6,9 @@ Featuring:
 --> automatic im- and exporting of Elden Ring vanilla/Seamless Coop profiles (planned)
 
 _________________________________________________________________________________________________________________________________
-Dependencies:
---> Selenium: https://www.selenium.dev/documentation/webdriver/getting_started/install_library/
+Dependencies:                                                                                                                                                                                                       
+--> Selenium: https://www.selenium.dev/documentation/webdriver/getting_started/install_library/                                                                                                                                             
 --> json-simple: https://code.google.com/archive/p/json-simple/
 
-Hashtags:
+Hashtags:                                                                                                                                                                                                                        
 seamless; seamless coop; seamless co-op; seamless coop mod; seamless co-op mod; elden ring mod; elden ring; elden ring seamless;
